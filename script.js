@@ -1,4 +1,4 @@
-const sounds = ['debeli', 'nezery', 'nubaro'];
+const sounds = ['aloandrej', 'debeli', 'nezery', 'nubaro'];
 
 sounds.forEach(sound => {
     
